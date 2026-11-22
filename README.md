@@ -70,19 +70,41 @@ Add or replace screenshots in `assets/screenshots/`. The image references below 
   <img src="assets/screenshots/home-screen.png" alt="Clipty Mini main application screen" width="100%">
 </p>
 
-### AI-selected highlights
 
-<!-- Replace the path below with a screenshot of the AI Best Moments panel. -->
-<p align="center">
-  <img src="assets/screenshots/ai-best-moments.png" alt="AI-selected video highlights" width="100%">
-</p>
+## Application Screenshots
 
-### Transcript and video metadata
-
-<!-- Replace the path below with a screenshot of the transcript and metadata panels. -->
-<p align="center">
-  <img src="assets/screenshots/transcript-metadata.png" alt="Transcript and technical video metadata" width="100%">
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Export Layout and Video Quality</h3>
+      <img src="utils/Screenshot from 2026-11-22 10-27-12.png" width="100%" alt="Export layout and video quality settings">
+    </td>
+    <td align="center" width="50%">
+      <h3>Clip Length and Viral Control</h3>
+      <img src="utils/Screenshot from 2026-11-22 10-27-25.png" width="100%" alt="Clip length and viral score settings">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Model and Hardware Selection</h3>
+      <img src="utils/Screenshot from 2026-11-22 10-27-39.png" width="100%" alt="AI model and hardware selection">
+    </td>
+    <td align="center" width="50%">
+      <h3>AI-Selected Highlights</h3>
+      <img src="assets/screenshots/ai-best-moments.png" width="100%" alt="AI-selected video highlights">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>Transcript and Video Metadata</h3>
+      <img src="assets/screenshots/transcript-metadata.png" width="100%" alt="Transcript and video metadata">
+    </td>
+    <td align="center" width="50%">
+      <h3>Upload Video and Analyze</h3>
+      <img src="utils/Screenshot from 2026-11-22 10-27-57.png" width="100%" alt="Upload video and analyze interface">
+    </td>
+  </tr>
+</table>
 
 ### Export settings
 
