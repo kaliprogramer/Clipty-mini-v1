@@ -58,16 +58,51 @@ Clipty Mini is designed around a practical editing workflow: the AI recommends m
 > **Current scope:** Clipty Mini selects moments from speech transcripts. It does not currently understand every visual event in a video, track faces, or automatically reframe a moving subject.
 
 ---
+## 🎬 Demo Videos
+
+See what Clipty Mini can create.
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="video-sample/123.mp4">
+        <img src="assets/demo/demo-1-thumbnail.png" width="100%" alt="Demo Video 1">
+      </a>
+      <b>Demo 1: AI Selected Highlights</b>
+      <br>
+      <sub>Click to watch</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="video-sample/2222.mp4">
+        <img src="assets/demo/demo-2-thumbnail.png" width="100%" alt="Demo Video 2">
+      </a>
+      <b>Demo 2: Vertical Video Export</b>
+      <br>
+      <sub>Click to watch</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="video-sample/33333.mp4">
+        <img src="assets/demo/demo-3-thumbnail.png" width="70%" alt="Demo Video 3">
+      </a>
+      <br>
+      <b>Demo 3: Final Clipping Result</b>
+      <br>
+      <sub>Click to watch</sub>
+    </td>
+  </tr>
+</table>
 
 ## Application Screenshots
 
-Add or replace screenshots in `assets/screenshots/`. The image references below are intentionally left as placeholders for your preferred captures.
+Add or replace screenshots in `assets/`. The image references below are intentionally left as placeholders for your preferred captures.
 
 ### Main application
 
 <!-- Replace the path below after adding your homepage screenshot. -->
 <p align="center">
-  <img src="assets/screenshots/home-screen.png" alt="Clipty Mini main application screen" width="100%">
+  <img src="utils/Screenshot from 2026-11-22 10-31-26.png" alt="Clipty Mini main application screen" width="100%">
 </p>
 
 
@@ -91,14 +126,10 @@ Add or replace screenshots in `assets/screenshots/`. The image references below 
     </td>
     <td align="center" width="50%">
       <h3>AI-Selected Highlights</h3>
-      <img src="assets/screenshots/ai-best-moments.png" width="100%" alt="AI-selected video highlights">
+      <img src="utils/Screenshot from 2026-11-22 10-31-02.png" width="100%" alt="AI-selected video highlights">
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <h3>Transcript and Video Metadata</h3>
-      <img src="assets/screenshots/transcript-metadata.png" width="100%" alt="Transcript and video metadata">
-    </td>
     <td align="center" width="50%">
       <h3>Upload Video and Analyze</h3>
       <img src="utils/Screenshot from 2026-11-22 10-27-57.png" width="100%" alt="Upload video and analyze interface">
@@ -106,11 +137,11 @@ Add or replace screenshots in `assets/screenshots/`. The image references below 
   </tr>
 </table>
 
-### Export settings
+### Clip Selection
 
 <!-- Replace the path below with a screenshot of the clip export settings. -->
 <p align="center">
-  <img src="assets/screenshots/export-settings.png" alt="Clip export settings" width="100%">
+  <img src="utils/Screenshot from 2026-11-22 10-29-07.png" alt="Clip selection settings" width="100%">
 </p>
 
 ---
