@@ -66,7 +66,7 @@ See what Clipty Mini can create.
   <tr>
     <td width="50%" align="center">
       <a href="video-sample/123.mp4">
-        <img src="assets/demo/demo-1-thumbnail.png" width="100%" alt="Demo Video 1">
+        <img src="video-sample/thamnel/123.jpg" width="100%" alt="Demo Video 1">
       </a>
       <b>Demo 1: AI Selected Highlights</b>
       <br>
@@ -74,7 +74,7 @@ See what Clipty Mini can create.
     </td>
     <td width="50%" align="center">
       <a href="video-sample/2222.mp4">
-        <img src="assets/demo/demo-2-thumbnail.png" width="100%" alt="Demo Video 2">
+        <img src="video-sample/thamnel/222.jpg" width="100%" alt="Demo Video 2">
       </a>
       <b>Demo 2: Vertical Video Export</b>
       <br>
@@ -84,7 +84,7 @@ See what Clipty Mini can create.
   <tr>
     <td colspan="2" align="center">
       <a href="video-sample/33333.mp4">
-        <img src="assets/demo/demo-3-thumbnail.png" width="70%" alt="Demo Video 3">
+        <img src="video-sample/thamnel/33333.jpg" width="70%" alt="Demo Video 3">
       </a>
       <br>
       <b>Demo 3: Final Clipping Result</b>
